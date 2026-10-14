@@ -29,6 +29,8 @@
 | 5 | `calculator.py` | 简易计算器 | 已完成 |
 | 6 | `bmi_calculator.py` | BMI 计算器综合实战 | 已完成 |
 
+所有代码存放在 `day02/code/` 目录下。
+
 ---
 
 ## 二、核心知识点
@@ -881,8 +883,9 @@ age = int(input("请输入年龄："))
 |---|---|
 | `age_check.py` | 成年人判断 |
 | `grade_check.py` | 学生成绩等级判断 |
-| `number_check.py` | 数字奇偶性判断 |
-| `day02_review.py` | 条件判断与循环综合实践 |
+| `access_check.py` | AI 系统访问权限判断 |
+| `sum_numbers.py` | for 循环整数累加 |
+| `while_sum.py` | while 输入校验与整数累加 |
 
 ### 7.3 学习目标
 
