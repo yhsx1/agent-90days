@@ -944,10 +944,10 @@ Day 2：
 
 | 文件 | 练习内容 |
 |---|---|
-| `string_practice.py` | 字符串 str 进阶 |
-| `list_practice.py` | 列表 list |
-| `tuple_set_practice.py` | 元组 tuple 与集合 set |
-| `dict_practice.py` | 字典 dict |
+| `string_practice.py` | 字符串信息分析 |
+| `list_practice.py` | 学生成绩列表管理 |
+| `tuple_set_practice.py` | 元组与集合操作 |
+| `dict_practice.py` | 学生信息字典管理 |
 | `student_manager.py` | 学生成绩管理系统综合实战 |
 
 ### 7.3 学习目标

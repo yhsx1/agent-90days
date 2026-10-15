@@ -87,10 +87,10 @@ agent-90days/
 
 ### Python 基础
 
-- [√] Day 01：变量、数据类型、输入输出、运算符、BMI 计算器
-- [√] Day 02：条件判断与循环
-- [ ] Day 03：Python 数据结构
-- [ ] Day 04–07：Python 基础进阶
+- [√] Day 01：Python 基础入门
+- [√] Day 02：Python 条件判断与循环
+- [√] Day 03：Python 数据结构与综合实践
+- [ ] Day 04: Python 函数与代码复用
 
 ### Python 工程化
 
@@ -174,8 +174,8 @@ py 01_python_basics/day01/code/bmi_calculator.py
 
 ## 当前状态
 
-当前学习进度：Day 03
+当前学习进度：Day 04
 
-当前内容：Python 数据结构
+当前内容：Python 函数与代码复用
 
 持续更新中。
