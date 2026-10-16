@@ -90,7 +90,8 @@ agent-90days/
 - [√] Day 01：Python 基础入门
 - [√] Day 02：Python 条件判断与循环
 - [√] Day 03：Python 数据结构与综合实践
-- [ ] Day 04: Python 函数与代码复用
+- [√] Day 04: Python 函数与代码复用
+- [ ] Day 05: Python 文件操作与异常处理
 
 ### Python 工程化
 
@@ -174,8 +175,8 @@ py 01_python_basics/day01/code/bmi_calculator.py
 
 ## 当前状态
 
-当前学习进度：Day 04
+当前学习进度：Day 05
 
-当前内容：Python 函数与代码复用
+当前内容：Python 文件操作与异常处理
 
 持续更新中。
